@@ -3311,11 +3311,14 @@ h6 {
       }
 
       .portif{
-        border:2px red solid;
-        width:25%;
+        width:30%;
         margin:0 auto;
+        font-size: 1.5rem;
+        font-style: bold;
+        border:2px red solid;
       }
 
+      
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
